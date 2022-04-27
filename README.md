@@ -1,6 +1,6 @@
 ### Hi there, I'm [Antonio Marcos](https://amcastelo.com.br/) 👋
 
-<a href="https://www.linkedin.com/in/antonio-marcos-castelo-18b136125/">
+<a href="https://www.linkedin.com/in/antonio-castelo-57662b231/">
   <img align="left" alt="Antonio Marcos" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/AMarcosCastelo">
@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning [NestJs](https://nestjs.com/) and Back-End
 - 🤔 I’m looking for help with Back-End
 - 💬 Ask me about React and JS
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/antonio-marcos-castelo-18b136125/)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/antonio-castelo-57662b231/)
 - 😄 Pronouns: He/His
 
 **Languages and Tools:**  
