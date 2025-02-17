@@ -3,10 +3,10 @@
 <a href="https://www.linkedin.com/in/antonio-castelo-57662b231/">
   <img align="left" alt="Antonio Marcos" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/amarcos_castelo">
+<a href="https://github.com/AMarcosCastelo">
   <img align="left" alt="Antonio Marcos" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.instagram.com/marcos_castelo/">
+<a href="https://www.instagram.com/amarcos_castelo/">
   <img align="left" alt="Antonio Marcos" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
