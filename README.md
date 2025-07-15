@@ -13,7 +13,7 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on [Carrot.Eco]([https://solidos.com/](https://www.carrot.eco/))
+- 🔭 I’m currently working on [Carrot]([https://solidos.com/](https://www.carrot.eco/))
 - 🌱 I’m currently learning [NestJs](https://nestjs.com/) and Back-End
 - 🤔 I’m looking for help with Back-End
 - 💬 Ask me about React and JS
